@@ -27,11 +27,27 @@ From managing academics and finances to AI-powered assistance and productivity t
 
 Think of it as your **digital academic command center**.
 
+<p align="center">
+  <img src="Photos/Login.jpg" width="200" />
+  <img src="Photos/Registration.jpg" width="200" />
+  <img src="Photos/Allow .jpg" width="200" />
+  <img src="Photos/Home.jpg" width="200" />
+  <br>
+  <img src="Photos/Home 2.jpg" width="200" />
+  <img src="Photos/Profile.jpg" width="200" />
+  <img src="Photos/Setting.jpg" width="200" />
+  <img src="Photos/Notification.jpg" width="200" />
+  <br>
+  <img src="Photos/Tools.jpg" width="200" />
+  <img src="Photos/File.jpg" width="200" />
+  <img src="Photos/Scanner.jpg" width="200" />
+</p>
+
 ---
 
 ## 🌟 Core Experience
 
-### 🎯 Academic Intelligence
+### 🎯 Academic Essentials
 Built to keep your university life organized and predictable.
 
 - 📅 **Smart Routine Manager**  
@@ -55,9 +71,29 @@ Built to keep your university life organized and predictable.
 - 📚 **Library Organizer**  
   Track borrowed books, due dates, and reading lists.
 
+<p align="center">
+  <img src="Photos/a 1.jpg" width="200" />
+  <img src="Photos/a 2.jpg" width="200" />
+  <img src="Photos/a 3.jpg" width="200" />
+  <img src="Photos/a 4.jpg" width="200" />
+  <br>
+  <img src="Photos/a 5.jpg" width="200" />
+  <img src="Photos/a 6.jpg" width="200" />
+  <img src="Photos/a 7.jpg" width="200" />
+  <img src="Photos/a 8.jpg" width="200" />
+  <br>
+  <img src="Photos/a 9.jpg" width="200" />
+  <img src="Photos/a 10.jpg" width="200" />
+  <img src="Photos/a 11.jpg" width="200" />
+  <img src="Photos/a 12.jpg" width="200" />
+  <br>
+  <img src="Photos/a 13.jpg" width="200" />
+  <img src="Photos/a 14.jpg" width="200" />
+</p>
+
 ---
 
-### 💼 Student Life Management
+### 💼 Academic PDF Tools
 Handle everyday university life beyond academics.
 
 - 💸 **Expense Intelligence Dashboard**  
@@ -75,9 +111,34 @@ Handle everyday university life beyond academics.
 - 📆 **Holiday Calendar**  
   University + national holidays in one place.
 
+<p align="center">
+  <img src="Photos/pdf 1.jpg" width="200" />
+  <img src="Photos/pdf 2.jpg" width="200" />
+  <img src="Photos/pdf 3.jpg" width="200" />
+  <img src="Photos/pdf 4.jpg" width="200" />
+  <br>
+  <img src="Photos/pdf 5.jpg" width="200" />
+  <img src="Photos/pdf 6.jpg" width="200" />
+  <img src="Photos/pdf 7.jpg" width="200" />
+  <img src="Photos/pdf 8.jpg" width="200" />
+  <br>
+  <img src="Photos/pdf 9.jpg" width="200" />
+  <img src="Photos/pdf 10.jpg" width="200" />
+  <img src="Photos/pdf 11.jpg" width="200" />
+  <img src="Photos/pdf 12.jpg" width="200" />
+  <br>
+  <img src="Photos/pdf 13.jpg" width="200" />
+  <img src="Photos/pdf 14.jpg" width="200" />
+  <img src="Photos/pdf 15.jpg" width="200" />
+  <img src="Photos/pdf 16.jpg" width="200" />
+  <br>
+  <img src="Photos/pdf 17.jpg" width="200" />
+  <img src="Photos/pdf 18.jpg" width="200" />
+</p>
+
 ---
 
-### 🚀 Productivity Toolkit
+### 🚀 Productivity
 Built to help students focus, learn, and perform better.
 
 - ⏳ **Pomodoro Focus System**  
@@ -101,9 +162,30 @@ Built to help students focus, learn, and perform better.
 - 🌍 **Currency & Unit Converter**  
   Fast everyday conversions.
 
+<p align="center">
+  <img src="Photos/p 1.jpg" width="200" />
+  <img src="Photos/p 2.jpg" width="200" />
+  <img src="Photos/p 3.jpg" width="200" />
+  <img src="Photos/p 4.jpg" width="200" />
+  <br>
+  <img src="Photos/p 5.jpg" width="200" />
+  <img src="Photos/p 6.jpg" width="200" />
+  <img src="Photos/p 7.jpg" width="200" />
+  <img src="Photos/p 8.jpg" width="200" />
+  <br>
+  <img src="Photos/p 9.jpg" width="200" />
+  <img src="Photos/p10.jpg" width="200" />
+  <img src="Photos/p 11.jpg" width="200" />
+  <img src="Photos/p 12.jpg" width="200" />
+  <br>
+  <img src="Photos/p 13.jpg" width="200" />
+  <img src="Photos/p 14.jpg" width="200" />
+  <img src="Photos/p 15.jpg" width="200" />
+</p>
+
 ---
 
-### 🤖 AI-Powered Assistant
+### 🤖 AI-Powered Tools
 Your intelligent academic helper.
 
 - AI study assistance
@@ -111,6 +193,23 @@ Your intelligent academic helper.
 - Quick academic support
 - Productivity guidance
 - Smart interactions powered by Google Generative AI
+
+<p align="center">
+  <img src="Photos/ai 1.jpg" width="200" />
+  <img src="Photos/ai 2.jpg" width="200" />
+  <img src="Photos/ai 3.jpg" width="200" />
+  <img src="Photos/ai 4.jpg" width="200" />
+  <br>
+  <img src="Photos/ai 5.jpg" width="200" />
+  <img src="Photos/ai 6.jpg" width="200" />
+  <img src="Photos/ai 7.jpg" width="200" />
+  <img src="Photos/ai 8.jpg" width="200" />
+  <br>
+  <img src="Photos/ai 9.jpg" width="200" />
+  <img src="Photos/ai 10.jpg" width="200" />
+  <img src="Photos/ai 11.jpg" width="200" />
+  <img src="Photos/ai 12.jpg" width="200" />
+</p>
 
 ---
 
@@ -149,116 +248,6 @@ Multi-language support included:
 
 - 🇬🇧 English
 - 🇧🇩 বাংলা
-
----
-
-## 📸 Visual Showcase
-
-### 🏠 Onboarding & User Interface
-<p align="center">
-  <img src="Photos/Login.jpg" width="200" />
-  <img src="Photos/Registration.jpg" width="200" />
-  <img src="Photos/Allow .jpg" width="200" />
-  <img src="Photos/Home.jpg" width="200" />
-  <br>
-  <img src="Photos/Home 2.jpg" width="200" />
-  <img src="Photos/Profile.jpg" width="200" />
-  <img src="Photos/Setting.jpg" width="200" />
-  <img src="Photos/Notification.jpg" width="200" />
-  <br>
-  <img src="Photos/Tools.jpg" width="200" />
-  <img src="Photos/File.jpg" width="200" />
-</p>
-
-### 🎓 Academic Essentials
-<p align="center">
-  <img src="Photos/1781325561423.jpg" width="200" />
-  <img src="Photos/1781325561427.jpg" width="200" />
-  <img src="Photos/1781325561432.jpg" width="200" />
-  <img src="Photos/1781325561435.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561439.jpg" width="200" />
-  <img src="Photos/1781325561444.jpg" width="200" />
-  <img src="Photos/1781325561448.jpg" width="200" />
-  <img src="Photos/1781325561453.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561457.jpg" width="200" />
-  <img src="Photos/1781325561461.jpg" width="200" />
-  <img src="Photos/1781325561465.jpg" width="200" />
-  <img src="Photos/1781325561470.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561473.jpg" width="200" />
-</p>
-
-### 📄 Academic PDF Tools
-<p align="center">
-  <img src="Photos/1781325561477.jpg" width="200" />
-  <img src="Photos/1781325561481.jpg" width="200" />
-  <img src="Photos/1781325561485.jpg" width="200" />
-  <img src="Photos/1781325561489.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561492.jpg" width="200" />
-  <img src="Photos/1781325561496.jpg" width="200" />
-  <img src="Photos/1781325561501.jpg" width="200" />
-  <img src="Photos/1781325561505.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561508.jpg" width="200" />
-  <img src="Photos/1781325561513.jpg" width="200" />
-  <img src="Photos/1781325561517.jpg" width="200" />
-  <img src="Photos/1781325561521.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561525.jpg" width="200" />
-  <img src="Photos/1781325561531.jpg" width="200" />
-  <img src="Photos/1781325561535.jpg" width="200" />
-  <img src="Photos/1781325561540.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561546.jpg" width="200" />
-  <img src="Photos/1781325561550.jpg" width="200" />
-</p>
-
-### 🤖 AI Powered Tools
-<p align="center">
-  <img src="Photos/1781325561554.jpg" width="200" />
-  <img src="Photos/1781325561559.jpg" width="200" />
-  <img src="Photos/1781325561564.jpg" width="200" />
-  <img src="Photos/1781325561568.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561573.jpg" width="200" />
-  <img src="Photos/1781325561577.jpg" width="200" />
-  <img src="Photos/1781325561581.jpg" width="200" />
-  <img src="Photos/1781325561587.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561590.jpg" width="200" />
-  <img src="Photos/1781325561594.jpg" width="200" />
-  <img src="Photos/1781325561597.jpg" width="200" />
-  <img src="Photos/1781325561601.jpg" width="200" />
-</p>
-
-### 🚀 Productivity
-<p align="center">
-  <img src="Photos/1781325561605.jpg" width="200" />
-  <img src="Photos/1781325561610.jpg" width="200" />
-  <img src="Photos/1781325561614.jpg" width="200" />
-  <img src="Photos/1781325561617.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561621.jpg" width="200" />
-  <img src="Photos/1781325561623.jpg" width="200" />
-  <img src="Photos/1781325561629.jpg" width="200" />
-  <img src="Photos/1781325561632.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561636.jpg" width="200" />
-  <img src="Photos/1781325561639.jpg" width="200" />
-  <img src="Photos/1781325561644.jpg" width="200" />
-  <img src="Photos/1781325561648.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561653.jpg" width="200" />
-  <img src="Photos/1781325561657.jpg" width="200" />
-  <img src="Photos/1781325561660.jpg" width="200" />
-  <img src="Photos/1781325561663.jpg" width="200" />
-  <br>
-  <img src="Photos/1781325561671.jpg" width="200" />
-  <img src="Photos/1781325561678.jpg" width="200" />
-</p>
 
 ---
 
