@@ -213,6 +213,21 @@ Your intelligent academic helper.
 
 ---
 
+### 🗄️ Database
+Comprehensive data management powered by MySQL.
+
+- 🛠️ **Relational Schema**  
+  Structured data for academics, finances, and user profiles.
+- 🚀 **Scalable Design**  
+  Optimized for student productivity and AI integration.
+
+<p align="center">
+  <img src="Photos/Mysql 1.png" width="200" />
+  <img src="Photos/Mysql 2.png" width="200" />
+</p>
+
+---
+
 ## 🏗️ Architecture & Technology
 
 UniMate is engineered using a scalable modern Flutter stack.
