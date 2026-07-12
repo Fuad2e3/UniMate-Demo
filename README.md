@@ -222,8 +222,8 @@ Comprehensive data management powered by MySQL.
   Optimized for student productivity and AI integration.
 
 <p align="center">
-  <img src="Photos/Mysql 1.png" width="200" />
-  <img src="Photos/Mysql 2.png" width="200" />
+  <img src="Photos/Mysql 1.png" width="400" />
+  <img src="Photos/Mysql 2.png" width="400" />
 </p>
 
 ---
