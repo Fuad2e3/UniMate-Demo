@@ -32,7 +32,7 @@ From routine management and attendance telemetry to automated CGPA forecasting, 
 ## 📸 App Interface Gallery
 
 ### 🔐 Onboarding & Core Navigation
-*Seamless account setup and intuitive modular dashboard.*
+*Seamless account onboarding and intuitive modular dashboard.*
 
 <p align="center">
   <img src="Photos/Login.jpg" width="180" style="border-radius: 12px; border: 1px solid #ddd; margin: 5px;" alt="Login">
@@ -199,8 +199,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <div align="center">
 
-**Developed with ❤️ by Fuad**  
-*Developed by Softece*  
-*UniMate*
+**Developed ❤️ by Softece**
 
 </div>
